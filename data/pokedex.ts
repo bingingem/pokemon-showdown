@@ -19511,6 +19511,18 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered"],
 		gen: 9,
 	},
+    bingingemchange: {
+		num: -76,
+		name: "Bingingem",
+		types: ["Dragon", "Fairy"],
+		baseStats: {hp: 110, atk: 110, def: 110, spa: 110, spd: 110, spe: 110},
+		abilities: {0: "Multiscale"},
+		heightm: 6.2,
+		weightkg: 201.6,
+		color: "Blue",
+		eggGroups: ["Undiscovered"],
+		gen: 9,
+	},
 	// NOTE: PokeStar "formes" are not actually formes and thus do not have a formeOrder
 	pokestarsmeargle: {
 		num: -5000,
