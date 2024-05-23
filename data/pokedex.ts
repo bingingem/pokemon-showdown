@@ -19511,7 +19511,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered"],
 		gen: 9,
 	},
-    bingingemchange: {
+    bingingem: {
 		num: -76,
 		name: "Bingingem",
 		types: ["Dragon", "Fairy"],
